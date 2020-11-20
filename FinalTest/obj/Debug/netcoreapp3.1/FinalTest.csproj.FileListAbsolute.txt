@@ -1,0 +1,13 @@
+C:\Users\shzn\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\FinalTest.exe
+C:\Users\shzn\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\FinalTest.deps.json
+C:\Users\shzn\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\FinalTest.runtimeconfig.json
+C:\Users\shzn\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\FinalTest.runtimeconfig.dev.json
+C:\Users\shzn\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\FinalTest.dll
+C:\Users\shzn\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\FinalTest.pdb
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.csprojAssemblyReference.cache
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.AssemblyInfoInputs.cache
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.AssemblyInfo.cs
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.dll
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.pdb
+C:\Users\shzn\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\FinalTest.genruntimeconfig.cache
